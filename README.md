@@ -7,6 +7,6 @@ I finished it on Windows10.
 Before you take it into use, please ensure you have what you need such as keras, gym and some basal labs.
 And please take this into register in gym.
 
-You should make lots of changes to run the environment and don't have lot's of hints these days but I will ensure you can run it easily in two weaks.
+You should make lots of changes to run the environment and don't have lot's of hints these days but I will ensure you can run it easily in two weeks.
 So this is a initial version which I used on CUMC2020
 
